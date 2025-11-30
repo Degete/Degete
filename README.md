@@ -1,5 +1,5 @@
-![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=degete&include_all_commits=true&count_private=true&show_icons=true&hide_border=true&custom_title=GitHub%20Stats)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=degete&langs_count=10&layout=compact&hide_border=true&custom_title=GitHub%20Repo%20Used%20Languages)
+![GitHub Statistics](https://github-stats.artes.degete.cat/api?username=degete&include_all_commits=true&count_private=true&show_icons=true&hide_border=true&custom_title=GitHub%20Stats)
+![Top Languages](https://github-stats.artes.degete.cat/api/top-langs/?username=degete&langs_count=10&layout=compact&hide_border=true&custom_title=GitHub%20Repo%20Used%20Languages)
 
 <!--
 **Degete/Degete** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
